@@ -5,5 +5,5 @@ I have added links from the home page to all three separate recipes pages.
 Have added images of the done recipe. centered the images and made the images an appropriate size.
 I have given the image a paragraph description.
 I have put in a unordered list for the ingredients.
-In the Directions list i have put in a ordered list of the recipes steps.
-I have put in a return to main page link.
+In the Directions list I have put in a ordered list of the recipes steps.
+I have put in a return to main page link at the bottom of each page.
